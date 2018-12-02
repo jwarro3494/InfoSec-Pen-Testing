@@ -11,7 +11,7 @@ Target Machine Setup and Issues:
 
  Exploit Used:
  
- The exploit used was exploit/windows/browser/ms10_046_shortcut_icon_dllloader inside the msfconsole part of Metasploit due to the overall power of the expoit (See https://sathisharthars.com/2014/05/21/hack-windows-7-with-metasploit-using-kali-linux/ for the complete procedure). While it is a very powerful exploit, it comes with some downsides. THe downsides include the use of Internet Explorer, typing in the ip address of the Kali machine into the browser (which may or may not connect), allowing the exploit to go through (pressing allow or not if protected mode) and having to repeat the process if the target should be turned off. 
+ The exploit used was exploit/windows/browser/ms10_046_shortcut_icon_dllloader inside the msfconsole part of Metasploit due to the overall power of the expoit (See https://sathisharthars.com/2014/05/21/hack-windows-7-with-metasploit-using-kali-linux/ for the complete procedure). While it is a very powerful exploit, it comes with some downsides. The downsides include the use of Internet Explorer, typing in the ip address of the Kali machine into the browser (which may or may not connect), allowing the exploit to go through (pressing allow or not if protected mode) and having to repeat the process if the target should be turned off. 
 
 Resources Used:
 
